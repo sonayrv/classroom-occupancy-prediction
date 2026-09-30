@@ -1,7 +1,7 @@
 # Hierarchical Classroom Occupancy Prediction Framework
 
 Source code for the simulation model described in the paper: 
-**"Synthesis of Deterministic and Stochastic Data for High-Precision Analysis of University Classroom Occupancy"**.
+**"Simulation-Based Hybrid Occupancy Prediction for Energy-Efficient University HVAC Control"**.
 
 ## Installation
 
@@ -16,7 +16,7 @@ python occupancy_simulation.py
 ```
 
 ## Results
-The simulation outputs accuracy metrics for each layer (A, B, C, D). 
+The simulation outputs accuracy metrics for each method (A, B, C, D). 
 The final hybrid model achieves a total MAPE of **6.8%**.
 
 ## Citation
